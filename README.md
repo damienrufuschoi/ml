@@ -1,4 +1,4 @@
-*** All the information below is from the dataset description from the source quoted ***
+*** All the information below is from the dataset description of the source quoted ***
 
 About this dataset:
 
