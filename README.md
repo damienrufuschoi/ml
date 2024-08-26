@@ -1,3 +1,5 @@
+*** All the information below is from the dataset description from the source quoted ***
+
 About this dataset:
 
 This biomedical dataset was built by Dr. Henrique da Mota during a medical residence period in the Group of Applied Research in Orthopaedics (GARO) of the Centre Médico-Chirurgical de Réadaptation des Massues, Lyon, France. The data has been organized in two different, but related, classification tasks.
